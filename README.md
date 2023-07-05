@@ -44,6 +44,10 @@ I've built my fair share of React apps, and I would say that in almost every cas
 
 This is the learnings from another mistake I've seen made way too often - components being built without the ability to pass through the className prop.  This is removing functionality that should be there for any component ever built.  The developer using the component should be able to decide if they'd like to add a className at the very least to the top level of the component.  This is another thing that makes good, future-proof code in my opinion.
 
+### Styling the selected item
+
+This is such a little thing, but I thought for this project it was important to add styling that didn't disturb the positioning of the elements but also left the elements styled much like they were originally.  This led me to use `box-shadow` as my selected style approach, which I thought worked rather well.
+
 ## Conclusion
 
 That's about it.  I'd love to chat!  Feel free to reach out to me through the details in my application (since I'm not too keen on posting my email / phone on a public Github README)
