@@ -1,6 +1,6 @@
 # Close.io Solution
 
-**I made a mistake, and I want to apologize.**
+### I made a mistake, and I want to apologize.
 
 My last solution was hurried, and my application was declined for obvious reasons.
 
