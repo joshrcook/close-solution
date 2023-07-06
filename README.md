@@ -12,6 +12,10 @@ So that's what I've created here.  A *much improved* solution.
 
 Please have a look - I'd love your thoughts, especially in the context of an interview 🙂.
 
+## The Live Solution
+
+[👉👉 View the live solution here. 👈👈](https://radiant-malabi-0147b2.netlify.app/)
+
 ## Thoughts about the solution
 
 ### Typescript usage
